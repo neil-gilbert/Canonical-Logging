@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanonicalLogging", "src\CanonicalLogging\CanonicalLogging.csproj", "{12B93140-9BE8-4AB6-9411-0B385483A94E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanonicalLogging.Tests", "CanonicalLogging.Tests\CanonicalLogging.Tests.csproj", "{89EB8163-A82F-41BF-A7B3-EC55CBE75013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B93140-9BE8-4AB6-9411-0B385483A94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B93140-9BE8-4AB6-9411-0B385483A94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B93140-9BE8-4AB6-9411-0B385483A94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B93140-9BE8-4AB6-9411-0B385483A94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EB8163-A82F-41BF-A7B3-EC55CBE75013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EB8163-A82F-41BF-A7B3-EC55CBE75013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EB8163-A82F-41BF-A7B3-EC55CBE75013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EB8163-A82F-41BF-A7B3-EC55CBE75013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
